@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="zp_Row_01">#303F9F</color>
+    <color name="zp_Row_02">#dfaf10</color>
+    <color name="zp_Row_03">#0fcf12</color>
+    <color name="zp_Row_04">#d918b5</color>
+</resources>
